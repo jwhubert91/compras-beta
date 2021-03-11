@@ -15,7 +15,7 @@ const BusinessSignUp = () => {
           <Card.Body>
             <Card.Title><strong>Business Sign Up</strong></Card.Title>
             <Card.Text>
-              Sign up for Compras and start posting your products online for free in minutes.
+              Sign up for Compras today and start posting your products online for free in minutes.
             </Card.Text>
             <Form>
               <Form.Row>
