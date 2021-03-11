@@ -1,6 +1,6 @@
 {
-  "short_name": "React App",
-  "name": "Create React App Sample",
+  "short_name": "Compras",
+  "name": "Compras - Shop Products in Your Area",
   "icons": [
     {
       "src": "favicon.ico",
